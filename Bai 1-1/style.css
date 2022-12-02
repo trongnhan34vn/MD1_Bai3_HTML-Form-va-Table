@@ -1,0 +1,73 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.app {
+    width: 500px;
+    border-width: 5px 10px;
+    border-color: aquamarine;
+    border-style: solid;
+}
+
+.header {
+    width: 100%;
+}
+
+.header h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: red;
+    margin: 0;
+    height: 40px;
+    line-height: 40px;
+}
+
+
+.info {
+    padding: 10px 24px;
+}
+
+.info-detail {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.info-detail p {
+    margin: 0 20px 0 0;
+    width: 64px;
+    color: blue;
+}
+
+.info-detail input {
+    width: 60%;
+}
+
+table {
+    width: 100%;
+    padding: 0 20px;
+    margin-bottom: 30px;
+}
+
+table span {
+    color: blue;
+}
+
+td {
+    color: red;
+}
+
+table input {
+    margin-right: 8px;
+}
+
+.button {
+    padding-left: 107px;
+    margin-bottom: 15px;
+}
+
+.send {
+    margin-right: 2px;
+}

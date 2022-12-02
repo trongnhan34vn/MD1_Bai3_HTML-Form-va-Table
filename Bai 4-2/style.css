@@ -1,0 +1,49 @@
+html {
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+}
+
+.app {
+    width: 80%;
+    margin: auto;
+}
+
+.header h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: blue;
+}
+
+.class-info table {
+    width: 100%;
+    color: blue;
+    font-size: 14px;
+}
+
+.row-align {
+    text-align: end;
+}
+
+.schedule-table table {
+    width: 100%;
+    text-align: center;
+    border-spacing: 0;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.schedule-table table td,
+.schedule-table table th,
+.schedule-table table tr {
+    border: 1px solid #000;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.col-yellow {
+    background-color: yellow;
+}
+
+.row-orange {
+    background-color: orange;
+}
+

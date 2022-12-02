@@ -1,0 +1,70 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+table span {
+    text-transform: uppercase;
+
+}
+
+table {
+    background-color: #FFFDA9;
+    padding: 0 10px;
+}
+
+
+.header {
+    padding: 10px;
+    color: blue;
+    background-color: aquamarine;
+}
+
+.gender-col {
+    display: flex;
+}
+
+.gender {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.gender input {
+    margin: 0 4px;
+}
+
+.add {
+    display: flex;
+    align-items: self-start;
+}
+.add p {
+    margin: 0;
+}
+
+table textarea {
+    height: 58px;
+    padding: 0;
+    width: 100%;
+}
+
+table input {
+    width: 70%;
+    margin: 0;
+    padding: 0;
+}
+
+.button {
+    padding: 10px 0 20px 90px;
+}
+
+.button button {
+    margin-right: 4px;
+}
+
+table tr td:first-child {
+    padding-right: 20px;
+}
+
+
+

@@ -1,0 +1,22 @@
+p {
+    margin: 0;
+}
+
+.block {
+    margin-bottom: 10px;
+}
+
+.gender-input-block {
+    display: flex;
+}
+
+.gender-input {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.gender-input input {
+    margin-bottom: 4px;
+    margin-right: 4px;
+}
